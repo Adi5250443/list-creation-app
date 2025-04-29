@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/list-creation-app/static/css/main.cbef9da8.css",
+    "main.js": "/list-creation-app/static/js/main.ca4ba414.js",
+    "index.html": "/list-creation-app/index.html",
+    "main.cbef9da8.css.map": "/list-creation-app/static/css/main.cbef9da8.css.map",
+    "main.ca4ba414.js.map": "/list-creation-app/static/js/main.ca4ba414.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbef9da8.css",
+    "static/js/main.ca4ba414.js"
+  ]
+}
